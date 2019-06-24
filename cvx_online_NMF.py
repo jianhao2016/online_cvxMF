@@ -334,8 +334,8 @@ if __name__ == '__main__':
     data_type = args.dtype
 
     # np.random.seed(42)
-    data_root = '/home/jianhao2/'
-    data_root_shared = '/data/shared/jianhao/'
+    data_root = '.'
+    data_root_shared = 'sample_data/'
     # df_file = os.path.join(data_root, 'pandas_dataframe')
     # feat_file = os.path.join(data_root, 'df_feature_column')
     if data_type == 'synthetic':
