@@ -15,3 +15,4 @@ python -W ignore cvx_online_NMF.py --numIter <numIter> --NF 100 \
 ```
 where `<numIter>` and `<candidate_size>` should be replaced with the desired number of iteration and size of representative set.
 
+The command will run original MF, cvxMF, online DL and our purpose online cvxMF altogether and draw the plots with their clustering results.
