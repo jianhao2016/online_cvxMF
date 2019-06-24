@@ -1,5 +1,6 @@
 # online_cvxMF
-This is the source code for paper "Online Convex Matrix Factorization with Representative Regions"
+This is the source code for paper "Online Convex Matrix Factorization with Representative Regions" 
+https://arxiv.org/abs/1904.02580v2
 
 `sample_data/` provides the synthetic data used for testing.
 
